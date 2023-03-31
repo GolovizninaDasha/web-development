@@ -1,0 +1,11 @@
+:host {
+    overflow-y: auto;
+  }
+.card {
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+}  
+.card p {
+    font-size: 15px;
+}
